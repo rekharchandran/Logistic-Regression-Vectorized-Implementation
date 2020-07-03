@@ -1,1 +1,2 @@
-# Logistic-Regression-Vectorized-Implementation
+# Logistic-Regression Vectorized implementation using iris data
+
